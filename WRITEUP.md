@@ -4,3 +4,4 @@
 
   The correlation charts were a useful tangent but my proposal was about timing observing windows, so for the final visualization I simplifiedthe levels of abstraction instead. In used one row per planet, ten years across, only the peak APmag windows drawn on the y axis, each row thresholded at its own median magnitude so peak heights within a row are directly comparable. Dim periods are dropped, leaving discrete bright bumps at each opposition or greatest elongation. What I wanted to visualize was the relative differences between observing windows, which the stacked rows show directly: Saturn's slow ring-driven brightening, Jupiter's regular ~13-month opposition cycle, Mars's irregular biennial-sh cycle, and Venus's twice-per-1.6-year apparitions so to speak, side by side
 
+also D3 javascript code can be found it the .htmls
